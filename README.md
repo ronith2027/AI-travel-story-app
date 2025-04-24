@@ -8,8 +8,6 @@ https://github.com/user-attachments/assets/2b67300e-6644-49f6-ace4-49bdfcdb828f
 
 ## Team Members
 
-- **Rithik M** [@rkrypt01](https://github.com/rkrypt01)
-- **Rakshit M** [@Rakss1104](https://github.com/Rakss1104)
 - **Ronith HU** 
 
 ## ✨ Features
